@@ -1,3 +1,4 @@
 this is my new file
 merge_test
 text came in branch2
+second edit in branch2
